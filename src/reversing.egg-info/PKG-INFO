@@ -1,11 +1,13 @@
 Metadata-Version: 2.1
-Name: reverse
+Name: reversing
 Version: 0.0.1
 Summary: Reversing module
-Home-page: https://github.com/lephuduc/reverse
+Home-page: https://github.com/lephuduc/reversing
 Author: lephuduc
 Author-email: lephuduc111@gmail.com
-Project-URL: Bug Tracker, https://github.com/lephuduc/reverse/issues
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/lephuduc/reversing/issues
+Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -14,3 +16,4 @@ Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 
 # Reverse module for easier scripting
+

@@ -1,4 +1,4 @@
-from rev import *
+from reversing import *
 from pwn import xor
 
 import time
