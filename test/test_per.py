@@ -12,13 +12,9 @@ def func2():
     for i in range(N):
         xor(bufa,bufb)
 x = time.time()
-for i in range(1000):
-    func1()
+func1()
 x1 = time.time()
 print("rev: ", x1-x)
-pool = ThreadPool(20)
-for i in range(1000):
-    pool.add_task(func1)
-pool.wait_completion()
+func2()
 x2 = time.time()
 print("pwn: ", x2-x1)
